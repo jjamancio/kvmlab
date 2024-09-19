@@ -5,8 +5,8 @@
   vars:
     pool_dir: "/var/lib/libvirt/images"
     vm: f40-lab01
-    vcpus: 2
-    ram_mb: 2048
+    vcpus: 1
+    ram_mb: 1024
     cleanup: no
     net: default
     ssh_pub_key: "/home/joao/.ssh/id_rsa.pub"
